@@ -3,4 +3,3 @@ yolov3_torch.code-workspace
 __pycache__*
 TEST/__pycache__*
 temp*
-TEST/__pycache__/test_DataSet.cpython-38-pytest-7.2.0.pyc
