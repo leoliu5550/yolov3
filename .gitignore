@@ -1,1 +1,5 @@
 yolov3_torch.code-workspace
+.vscode*
+__pycache__*
+TEST/__pycache__*
+temp*
